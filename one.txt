@@ -1,6 +1,2 @@
 one1
-<<<<<<< HEAD
-test=9
-=======
-test=9
->>>>>>> newbranch1
+test=1
