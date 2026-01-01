@@ -1,2 +1,2 @@
 one1
-test=newbranch4
+test=newbranchlasttest
