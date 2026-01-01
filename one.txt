@@ -1,3 +1,2 @@
 one1
-test=7
->>>>>>> newbranch1
+test=8
