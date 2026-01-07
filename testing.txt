@@ -1,7 +1,4 @@
-<<<<<<< Updated upstream
 test=63
 test2=676
 test3=69
-=======
-test=50
->>>>>>> Stashed changes
+
